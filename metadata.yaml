@@ -1,0 +1,36 @@
+_repo: Eastern-Standard-Tribe_17028
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Doctorow, Cory
+    birthdate: 1971
+    gutenberg_agent_id: '3826'
+    url: http://www.gutenberg.org/2009/agents/3826
+    wikipedia: http://en.wikipedia.org/wiki/Cory_Doctorow
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2005-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17028'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Europe -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Conspiracies -- Fiction'
+- !lcsh 'Business consultants -- Fiction'
+- !lcsh 'Time -- Systems and standards -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Young men -- Fiction'
+- !lcsh 'Americans -- Europe -- Fiction'
+- !lcsh 'Sleep-wake cycle -- Fiction'
+- !lcsh 'Secret societies -- Fiction'
+title: Eastern Standard Tribe
+url: http://www.gutenberg.org/ebooks/17028
